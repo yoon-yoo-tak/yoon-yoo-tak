@@ -44,7 +44,7 @@
 
 [![dbsdbxkrzz](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdbxkrzz)](https://solved.ac/dbsdbxkrzz)
 
-[![코드트리|실력진단-dbsdbxkrzz](https://banner.codetree.ai/v1/banner/dbsdbxkrzz)](https://www.codetree.ai/profiles/dbsdbxkrzz)
+[![BOJ](https://bojstat.vulcan.site/dbsdbxkrzz)](https://www.acmicpc.net/user/dbsdbxkrzz)
 <br/>
  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
